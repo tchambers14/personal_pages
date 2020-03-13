@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "tchambers14@gmail.com"
-      url: mailto:tchambers14@gmail.com
+      url: "mailto:tchambers14@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://tchambers14.github.io"
