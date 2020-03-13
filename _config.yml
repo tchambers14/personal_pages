@@ -100,7 +100,7 @@ author:
   email            :  # "tchambers14@gmail.com"
   links:
     - label: "Email"
-      icon: "tchambers14@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tchambers14@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -110,15 +110,13 @@ author:
       url: "https://twitter.com/tchambers14"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/tchambers14"
+      url: "https://www.linkedin.com/in/tchambers14"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tchambers14"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
-#TODO add linkedin
 
 # Site Footer
 footer:
