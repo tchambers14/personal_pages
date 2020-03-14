@@ -15,7 +15,7 @@ permalink: /rugby/
 
 # Old Alleynian's Rugby Coach
 ---
-<img src="/assets/images/OAs.jfif" alt="RFU" width="300"/>
+<img src="/images/OAs.jpg" alt="RFU" width="300"/>
 
 ## Head Coach of Old Alleynians RFC Senior Teams
 
@@ -28,7 +28,7 @@ _Embed league table?_
 
 # RFU Level 3 - Candidate
 --- 
-<img src="/assets/images/RFU.jfif" alt="RFU" width="300"/>
+<img src="/images/RFU.jfif" alt="RFU" width="300"/>
 
 Studying for RFU Level 3 course
 
