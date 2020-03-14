@@ -1,5 +1,5 @@
 ---
-layout: archive-single-cv
+layout: archive
 excerpt: "Cool Project" 
 date: 2009-10-01
 venue: 'Journal 1'
