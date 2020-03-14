@@ -1,21 +1,15 @@
 ---
-title: "Layout: Header Image Overlay"
+title: "Thomas Chambers - Rugby Coach"
 header:
-  overlay_image: /images/profile.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /images/old_alleynians.jfif
   actions:
-    - label: "Call to action 1"
-      url: "https://github.com"
-    - label: "Call to action 2"
-      url: "https://mademistakes.com"
+    - label: "Old Alleynian's"
+      url: "https://www.alleynianrugby.org/"
 categories:
-  - Layout
-  - Uncategorized
+  - rugby
 tags:
-  - edge case
-  - image
-  - layout
-last_modified_at: 2016-05-02T11:39:01-04:00
+  - rugby
+  - OAs
 permalink: /rugby/
 ---
 
