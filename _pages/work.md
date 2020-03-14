@@ -2,6 +2,7 @@
 title: "Thomas Chambers - Product Owner"
 header:
   overlay_image: /images/Product-owner.jpg
+  caption: "Photo credit: [**Unsplash**](https://www.nitor.com)"
   actions:
     - label: "SAFe Agile"
       url: "https://www.scaledagileframework.com/"
@@ -12,3 +13,4 @@ tags:
   - product_owner
 permalink: /work/
 ---
+
