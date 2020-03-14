@@ -45,9 +45,9 @@ Skills
     * SAFe - Product Ownership
     * Skill 3
 
-Publications
+Project Experience
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.experiences %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
