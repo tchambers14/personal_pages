@@ -1,6 +1,7 @@
 ---
 layout: default
 excerpt: "Cool Project" 
+collection: experiences
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://tchambers14.github.io/files/paper1.pdf'
