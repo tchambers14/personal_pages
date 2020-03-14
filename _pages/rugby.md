@@ -18,7 +18,6 @@ permalink: /rugby/
 <img src="/images/OAs.jpg" alt="RFU" width="300"/>
 
 ## Head Coach of Old Alleynians RFC Senior Teams
-
 - 5 Senior Men's sides
 - Competing in London SE2 _add link_
 
