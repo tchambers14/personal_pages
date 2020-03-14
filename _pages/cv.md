@@ -5,7 +5,9 @@ permalink: /cv/
 author_profile: true
 ---
 
+
 Education
+------
 ======
 * MEng 1st Class Honours - Oxford University, 2009
 * MBA - Open University, 2018
@@ -13,6 +15,7 @@ Education
 * FRM - GARP - 2014
 
 Work Experience
+------
 ======
 ## September 2018 - Present: BNP Paribas
 ---
