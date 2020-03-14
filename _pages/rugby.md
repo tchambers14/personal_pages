@@ -1,7 +1,7 @@
 ---
 title: "Layout: Header Image Overlay"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /images/profile.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Call to action 1"
@@ -16,6 +16,7 @@ tags:
   - image
   - layout
 last_modified_at: 2016-05-02T11:39:01-04:00
+permalink: /rugby/
 ---
 
 This post should display a **header with an overlay image**, if the theme supports it.
