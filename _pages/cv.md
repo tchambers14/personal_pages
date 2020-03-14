@@ -1,11 +1,9 @@
 ---
-layout: archive-single
+layout: archive
 title: "Thomas Chambers - CV"
 permalink: /cv/
 author_profile: true
 ---
-
-{% include base_path %}
 
 Education
 ======
