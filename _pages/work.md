@@ -1,7 +1,7 @@
 ---
 title: "Thomas Chambers - Product Owner"
 header:
-  overlay_image: /images/Product_owner.jpg
+  overlay_image: /images/Product-owner.jpg
   actions:
     - label: "SAFe Agile"
       url: "https://www.scaledagileframework.com/"
