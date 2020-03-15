@@ -12,12 +12,11 @@ tags:
   - OAs
 permalink: /rugby/
 ---
+Old Alleynian's Rugby Coach
+===
+<img src="/images/OAs.jpg" alt="RFU" width="200" class="center"/>
 
-# Old Alleynian's Rugby Coach
----
-<img src="/images/OAs.jpg" alt="RFU" width="300"/>
-
-## Head Coach of Old Alleynians RFC Senior Teams
+###Head Coach of Old Alleynians RFC Senior Teams
 - 5 Senior Men's sides
 - Competing in London SE2 _add link_
 
@@ -25,13 +24,13 @@ _Embed league table?_
 
 *Add details of twitter and instagram feeds for the club and links*
 
-# RFU Level 3 - Candidate
---- 
-<img src="/images/RFU.jfif" alt="RFU" width="300"/>
+###RFU Level 3 - Candidate
+===
+<img src="/images/RFU.jfif" alt="RFU" width="200" class="center"/>
 
 Studying for RFU Level 3 course
 
-# Rugby Blog Posts
+##Rugby Blog Posts
   <ul>{% for post in site.rugby %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
