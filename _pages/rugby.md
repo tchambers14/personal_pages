@@ -7,7 +7,8 @@ header:
       url: "https://www.alleynianrugby.org/"
 permalink: /rugby/
 ---
-Old Alleynian's Rugby Coach
+
+## Old Alleynian's Rugby Coach
 ===
 <img src="/images/OAs.jpg" alt="RFU" width="200" class="align-center"/>
 
