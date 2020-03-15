@@ -1,5 +1,5 @@
 ---
-layout: archive-single
+layout: archive
 excerpt: "Exotic Equity Derivatives" 
 collection: experiences
 date: 2009-10-01
