@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -96,15 +96,22 @@ author:
   name             : "Thomas Chambers"
   avatar           : "/images/profile.png"
   bio              : "Product Owner and Rugby Coach"
-  location         : "Brixton"
+#  employer         : "BNP Paribas"
+  location         : "Home"
   email            :  # "tchambers14@gmail.com"
   links:
+    - label: "Work"
+      icon: "far fa-building"
+      url: "https://www.bnpparibas.co.uk/en/"
+    - label: "Rugby"
+      icon: "fas fa-football-ball"
+      url: "https://www.alleynianrugby.org/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tchambers14@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://tchambers14.github.io"
+      url: "http://whalemagnet.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tchambers14"
@@ -124,9 +131,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tchambers14"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://tchambers14.github.io"
@@ -249,16 +256,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
@@ -268,6 +275,20 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  experiences:
+    output: true
+    permalink: /:collection/:path/
+  analysis:
+    output: true
+    permalink: /:collection/:path/
+  rugby:
+    output: true
+    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -289,5 +310,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-# TODO add default layouts for other page types

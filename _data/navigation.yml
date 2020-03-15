@@ -19,11 +19,8 @@ main:
   - title: "Rugby"
     url: /rugby/
 
-  - title: "Play"
-    url: /play/
-
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Other"
+    url: /other/
 
   - title: "Blog Posts"
     url: /year-archive/
