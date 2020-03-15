@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /play/
+permalink: /other/
 ---
 
 # Play section

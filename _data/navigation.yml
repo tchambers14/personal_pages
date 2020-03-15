@@ -19,8 +19,8 @@ main:
   - title: "Rugby"
     url: /rugby/
 
-  - title: "Play"
-    url: /play/
+  - title: "Other"
+    url: /other/
 
   - title: "Blog Posts"
     url: /year-archive/
