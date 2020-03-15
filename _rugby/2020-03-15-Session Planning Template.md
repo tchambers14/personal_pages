@@ -15,7 +15,7 @@ This is the base template that I use to plan training session at OAs:
 
 {% include gallery class="align-center" style="width:200px;height200px" %}
 
-[![Session Planner Template](/images/word_doc.png)](/files/Rugby Session Planner.docx)
+[![Session Planner Template](/images/word_doc.png)](/files/Rugby Session Planner.docx){: .align-center }
 
 <a href={{ site.url }}/files/Rugby Session Planner.docx>
   <img src={{ site.url }}/images/word_doc.png alt="Session Planner Template" class="align-center" style="width:200px;height:200px;border:2px;"/>
