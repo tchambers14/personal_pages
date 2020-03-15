@@ -286,6 +286,9 @@ collections:
   rugby:
     output: true
     permalink: /:collection/:path/
+  other:
+    output: true
+    permalink: /:collection/:path/
 #  talks:
 #    output: true
 #    permalink: /:collection/:path/
