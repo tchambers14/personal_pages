@@ -1,4 +1,6 @@
-title: 'Hello World'
+---
+layout: posts
+title: 'Hello World!'
 date: 2020-03-16
 tags:
   - General
