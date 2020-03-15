@@ -19,9 +19,6 @@ gallery:
 
 {{ content }}
 {% assign gallery = page.gallery %}
-{% if include.layout %}
-  {% assign gallery_layout = include.layout %}
-{% else %}
   {% if gallery.size == 2 %}
     {% assign gallery_layout = 'half' %}
   {% elsif gallery.size >= 3 %}
