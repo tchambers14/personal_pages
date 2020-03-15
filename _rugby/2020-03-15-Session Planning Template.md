@@ -15,7 +15,7 @@ image:
 
 This is the base template that I use to plan training session at OAs:
 
-{% include gallery class="align-center" %}
+{% include gallery class="align-center" style="width:200px;height200px" %}
 
 <a href={{ page.image.url }}>
   <img src={ page.image } alt="Session Planner Template" class="align-center" style="width:200px;height:200px;border:2px;">
