@@ -17,4 +17,4 @@ some text and [here is possible to download the file in PDF][1]
 
 [1]:{{ site.url }}/files/Rugby Session Planner.docx
 
-{% include gallery caption="Work, Rugby & Other." class="center" %}
+{% include gallery class="align-center" %}
