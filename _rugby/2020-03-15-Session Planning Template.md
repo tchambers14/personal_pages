@@ -10,7 +10,7 @@ gallery:
     title: "Rugby Session Planner"
 ---
 
-#Session Planning Template
+This is the base template that I use to plan training session at OAs:
 
+{% include gallery class="align-center" %}
 
-{% include gallery class="align-center" class="ImageBorder" %}
