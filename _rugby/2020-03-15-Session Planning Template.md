@@ -11,8 +11,8 @@ gallery:
 image: /images/word_doc.png
 ---
 
-This is the base template that I use to plan training session at OAs:
+This is the base template that I use to plan training session at OAs, please let me know what you think of it via [email]  (mailto:chambersrugby@gmail.com)
 
-[![Session Planner Template](/images/word_doc.png)](/files/Rugby Session Planner.docx){: .align-center }
+[![Session Planner Template](/images/word_doc.png)](/files/Rugby Session Planner.docx){: .align-center}
 
 
