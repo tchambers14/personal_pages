@@ -5,8 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-
-Education
+Education & Qualifications
 ------
 ======
 * MEng 1st Class Honours - Oxford University, 2009
