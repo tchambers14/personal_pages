@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 excerpt: "Session Planning Template" 
 collection: rugby
 date: 2020-03-15
