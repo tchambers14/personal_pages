@@ -3,4 +3,4 @@ layout: archive
 permalink: /other/
 ---
 
-# Play section
+# Other Section
