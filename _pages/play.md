@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /rugby/
+permalink: /play/
 ---
 
 # Play section
