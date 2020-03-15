@@ -31,4 +31,7 @@ _Embed league table?_
 
 Studying for RFU Level 3 course
 
-
+# Rugby Blog Posts
+  <ul>{% for post in site.rugby %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
