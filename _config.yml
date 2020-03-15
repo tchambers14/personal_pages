@@ -101,10 +101,10 @@ author:
   email            :  # "tchambers14@gmail.com"
   links:
     - label: "BNP Paribas"
-      icon: "fa fa-building-o"
+      icon: "far fa-building"
       url: "https://www.bnpparibas.co.uk/en/"
     - label: "Old Alleynian's"
-      icon: "fa fa-futbol-o"
+      icon: "fas fa-football-ball"
       url: "https://www.alleynianrugby.org/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
