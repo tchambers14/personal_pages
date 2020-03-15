@@ -49,7 +49,7 @@ Skills
 
 Project Experience
 ======
-  <ul>{% for post in site.experiences %}
+  <ul>{% for post in site.Experiences %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

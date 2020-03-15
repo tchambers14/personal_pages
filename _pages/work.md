@@ -8,11 +8,6 @@ header:
       url: "https://www.scaledagileframework.com/"
     - label: "BNP Paribas"
       url: "https://www.bnpparibas.co.uk/en/"
-categories:
-  - work
-tags:
-  - agile
-  - product_owner
 permalink: /work/
 ---
 

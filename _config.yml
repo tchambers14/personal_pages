@@ -277,16 +277,16 @@ compress_html:
 
 # Collections
 collections:
-  experiences:
+  Experiences:
     output: true
     permalink: /:collection/:path/
-  analysis:
+  Analysis:
     output: true
     permalink: /:collection/:path/
-  rugby:
+  Rugby:
     output: true
     permalink: /:collection/:path/
-  other:
+  Other:
     output: true
     permalink: /:collection/:path/
 #  talks:

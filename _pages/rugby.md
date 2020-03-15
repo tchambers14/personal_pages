@@ -5,11 +5,6 @@ header:
   actions:
     - label: "Old Alleynian's"
       url: "https://www.alleynianrugby.org/"
-categories:
-  - rugby
-tags:
-  - rugby
-  - OAs
 permalink: /rugby/
 ---
 Old Alleynian's Rugby Coach
