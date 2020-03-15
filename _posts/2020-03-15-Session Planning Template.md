@@ -2,6 +2,7 @@
 excerpt: "Session Planning Template" 
 collection: rugby
 date: 2020-03-15
+collection: Rugby
 categories:
   - Rugby
 tags:
