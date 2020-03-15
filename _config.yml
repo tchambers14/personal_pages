@@ -96,10 +96,16 @@ author:
   name             : "Thomas Chambers"
   avatar           : "/images/profile.png"
   bio              : "Product Owner and Rugby Coach"
-  employer         : "BNP Paribas"
+#  employer         : "BNP Paribas"
   location         : "Brixton"
   email            :  # "tchambers14@gmail.com"
   links:
+    - label: "BNP Paribas"
+        icon: "fa fa-building-o"
+        url: "https://www.bnpparibas.co.uk/en/"
+    - label: "Old Alleynian's"
+        icon: "fa fa-futbol-o"
+        url: "https://www.alleynianrugby.org/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tchambers14@gmail.com"
@@ -125,9 +131,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tchambers14"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://tchambers14.github.io"
@@ -274,12 +280,12 @@ collections:
   experiences:
     output: true
     permalink: /:collection/:path/
-#  publications:
-#    output: true
-#    permalink: /:collection/:path/
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path/
+  analysis:
+    output: true
+    permalink: /:collection/:path/
+  rugby:
+    output: true
+    permalink: /:collection/:path/
 #  talks:
 #    output: true
 #    permalink: /:collection/:path/
@@ -304,5 +310,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-# TODO add default layouts for other page types

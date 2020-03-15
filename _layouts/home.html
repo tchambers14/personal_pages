@@ -1,8 +1,24 @@
 ---
 layout: archive
+gallery:
+  - url: /work/
+    image_path: /images/product_owner.jpg
+    caption: "Photo credit: [**3back**](https://www.mega.com/en/product/business-process-analysis)"
+    alt: "Product Owner"
+    title: "Work"
+  - url: /rugby/
+    image_path: /images/OAs.jpg
+    alt: "Old Alleynian's"
+    title: "Rugby"
+  - url: /play/
+    image_path: /images/whales-tail.jpg
+    caption: "Photo credit: [**walls2walls**](https://walls2walls.wordpress.com/category/animals/)"
+    alt: "Play"
+    title: "Play"
 ---
 
 {{ content }}
+{% include gallery caption="Work, Rugby & Play." %}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
