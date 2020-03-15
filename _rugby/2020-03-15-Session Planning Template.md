@@ -8,16 +8,14 @@ gallery:
     image_path: /images/word_doc.png
     alt: "Session Planner Template"
     title: "Rugby Session Planner"
-image: 
-  - path: /images/word_doc.png
-  - url: /files/Rugby Session Planner.docx
+image: /images/word_doc.png
 ---
 
 This is the base template that I use to plan training session at OAs:
 
 {% include gallery class="align-center" style="width:200px;height200px" %}
 
-<a href={{ page.image.url }}>
-  <img src={ page.image } alt="Session Planner Template" class="align-center" style="width:200px;height:200px;border:2px;">
+<a href={{ site.url }}/files/Rugby Session Planner.docx>
+  <img src={{ site.url }}/images/word_doc.png alt="Session Planner Template" class="align-center" style="width:200px;height:200px;border:2px;"/>
 </a>
 
