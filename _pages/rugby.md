@@ -8,11 +8,11 @@ header:
 permalink: /rugby/
 ---
 
+My coaching philosophy is summed up by _"sucess through enjoyment"_
+
 ## Old Alleynian's Rugby Coach
 
 <img src="/images/OAs.jpg" alt="RFU" width="200" class="align-center"/>
-
-My coaching philosophy is summed up by _"sucess through enjoyment"_
 
 ### Head Coach of Old Alleynians RFC Senior Teams
 - 5 Senior Men's sides
@@ -31,6 +31,7 @@ _Embed league table?_
 Studying for RFU Level 3 course
 
 ## Rugby Blog Posts
-  <ul>{% for post in site.Rugby %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.categories.Rugby %}
+    {% include archive-single.html %}
+{% endfor %}</ul>
+

@@ -8,8 +8,7 @@ permalink: /Rugby/SessionPlanning/
 categories:
   - Rugby
 tags:
-  - Rugby
-  - Training
+  - training
 ---
 
 This is the base template that I use to plan training session at OAs, please let me know what you think of it via [email](mailto:chambersrugby@gmail.com)

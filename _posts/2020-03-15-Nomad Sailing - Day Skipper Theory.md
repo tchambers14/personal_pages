@@ -6,7 +6,7 @@ collection: other
 categories:
   - Other
 tags:
-  - Sailing
+  - sailing
 ---
 
 Include a plug for Nomad Sailing

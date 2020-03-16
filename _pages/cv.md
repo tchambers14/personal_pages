@@ -20,7 +20,7 @@ Work Experience
 ---
   * Business Analysis / Product Owner
     - Leading complex quantitative risk technology builds for regulatory deliverables including FRTB
-  * Duties iInclude: 
+  * Duties Include: 
     - Design, Build and Test of complex software products to support Global Markets and Market and Counterparty Credit Risk
     - Liason with Risk and Front Office Quant teams 
   * Deliveries Include:
