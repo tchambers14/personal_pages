@@ -23,7 +23,7 @@ main:
     url: /other/
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /post-archive/
 
   - title: "CV"
     url: /cv/
