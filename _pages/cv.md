@@ -8,8 +8,8 @@ author_profile: true
 Education & Qualifications
 ------
 ======
-* MEng 1st Class Honours - Oxford University, 2009
 * MBA - Open University, 2018
+* MEng 1st Class Honours - Oxford University, 2009
 * Certified Business Analysis Professional - IIBA - 2016
 * FRM - GARP - 2014
 
@@ -59,4 +59,4 @@ Service and leadership
 * ECN Co-Chair
     - Leading a team of volunteers to organise events for young employees
 * Risk Systems Innovation Champion
-    - Incubation
+    - Running Ideas Incubation Sessions

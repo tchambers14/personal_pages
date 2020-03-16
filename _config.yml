@@ -313,3 +313,36 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _rugby
+  - scope:
+      path: ""
+      type: rugby
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _other
+  - scope:
+      path: ""
+      type: other
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _analysis
+  - scope:
+      path: ""
+      type: analysis
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true

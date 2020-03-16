@@ -1,13 +1,18 @@
 ---
-excerpt: "Session Planning Template" 
+title: "Session Planning Template"
+excerpt: "Word document template for planning training sessions" 
 collection: rugby
 date: 2020-03-15
-collection: Rugby
+collection: rugby
 categories:
-  - Rugby
+  - rugby
 tags:
   - Rugby
   - Training
+  - Test1
+  - Test2
+  - Test3
+  - Test4
 ---
 
 This is the base template that I use to plan training session at OAs, please let me know what you think of it via [email](mailto:chambersrugby@gmail.com)
