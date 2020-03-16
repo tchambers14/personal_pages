@@ -9,6 +9,10 @@ categories:
 tags:
   - Rugby
   - Training
+  - Test1
+  - Test2
+  - Test3
+  - Test4
 ---
 
 This is the base template that I use to plan training session at OAs, please let me know what you think of it via [email](mailto:chambersrugby@gmail.com)
