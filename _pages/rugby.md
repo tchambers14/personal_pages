@@ -10,8 +10,9 @@ permalink: /rugby/
 
 ## Old Alleynian's Rugby Coach
 
-
 <img src="/images/OAs.jpg" alt="RFU" width="200" class="align-center"/>
+
+My coaching philosophy is summed up by _"sucess through enjoyment"_
 
 ### Head Coach of Old Alleynians RFC Senior Teams
 - 5 Senior Men's sides
