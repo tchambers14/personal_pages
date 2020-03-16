@@ -16,7 +16,7 @@ author_profile: true
     {% endif %}
   {% endunless %}
   {% for post in collection.docs %}
-    {% unless collection.output == false or collection.label == "experiences" or collection.label == "posts" %}
+    {% unless collection.output == false or collection.label == "Experiences" or collection.label == "posts" %}
       {% include archive-single.html %}
     {% endunless %}
   {% endfor %}

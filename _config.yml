@@ -313,10 +313,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _rugby
+  # _Rugby
   - scope:
       path: ""
-      type: rugby
+      type: Rugby
     values:
       layout: single
       author_profile: true
@@ -324,10 +324,10 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _other
+  # _Other
   - scope:
       path: ""
-      type: other
+      type: Other
     values:
       layout: single
       author_profile: true
@@ -335,10 +335,10 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _analysis
+  # _Analysis
   - scope:
       path: ""
-      type: analysis
+      type: Analysis
     values:
       layout: single
       author_profile: true
