@@ -4,9 +4,9 @@ excerpt: "A fantastic 8 week course"
 date: 2020-03-15
 collection: other
 categories:
-  - other
+  - Other
 tags:
-  - Sailing
+  - sailing
 ---
 
 Include a plug for Nomad Sailing

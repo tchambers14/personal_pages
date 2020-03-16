@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /other/
+
 ---
 
-# Other Section
-
-  <ul>{% for post in site.other %}
+## General Blog Posts
+<ul>{% for post in site.categories.Other %}
     {% include archive-single.html %}
-  {% endfor %}</ul>
+{% endfor %}</ul>
