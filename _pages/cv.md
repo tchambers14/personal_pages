@@ -9,7 +9,7 @@ Education & Qualifications
 ------
 ======
 * MBA - Open University, 2018
-* MEng 1st Class Honours - Oxford University, 2009
+* MEng 1st Class Honors - Oxford University, 2009
 * Certified Business Analysis Professional - IIBA - 2016
 * FRM - GARP - 2014
 
@@ -20,9 +20,9 @@ Work Experience
 ---
   * Business Analysis / Product Owner
     - Leading complex quantitative risk technology builds for regulatory deliverables including FRTB
-  * Duties Include: 
+  * Duties Include:
     - Design, Build and Test of complex software products to support Global Markets and Market and Counterparty Credit Risk
-    - Liason with Risk and Front Office Quant teams 
+    - Liaison with Risk and Front Office Quant teams
   * Deliveries Include:
     - FRTB IMA DRC Calculation
     - Enhancements to counterparty capital processing for CDS Index Options
@@ -31,12 +31,12 @@ Work Experience
 ## September 2009 - August 2018: Deutsche Bank
 ---
   * Senior Quantitative Business Analyst
-  * Duties included: 
+  * Duties included:
     - Leading a global team of business analysts
   * Deliveries Included:
-    - Full reval stress testing platform
+    - Full revaluation stress testing platform
     - Analytics Migrations for Equity Front Office
-  
+
 Skills
 ======
 * Market Risk
@@ -45,15 +45,16 @@ Skills
 * Credit Derivatives
 * Business Analysis / Product Ownership
     * SAFe - Product Ownership
-    * Skill 3
+    * Requirements Engineering
+    * Project Management
 
 Project Experience
 ======
   <ul>{% for post in site.Experiences %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-  
+
+
 Service and leadership
 ======
 * ECN Co-Chair

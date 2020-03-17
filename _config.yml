@@ -289,9 +289,7 @@ collections:
   Other:
     output: true
     permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -313,36 +311,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Rugby
-  - scope:
-      path: ""
-      type: Rugby
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  # _Other
-  - scope:
-      path: ""
-      type: Other
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  # _Analysis
-  - scope:
-      path: ""
-      type: Analysis
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
