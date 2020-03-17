@@ -7,6 +7,4 @@ date: 2011-01-01
 
 TEST
 
-  <a href="http://www.bbc.co.uk" class="btn btn--large">{{ "Back to CV" }}</a>
-
-  btn--#fff
+  <a href={{ site.url }}"/cv/" class="btn btn--inverse btn--large">{{ "Back to CV" }}</a>
