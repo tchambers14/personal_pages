@@ -20,6 +20,20 @@ My coaching philosophy is summed up by _"sucess through enjoyment"_
 
 _Embed league table?_
 
+https://www.instagram.com/oldalleynians/
+
+<li>
+  <a href="https://twitter.com/Oldalleynians" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+  </a>
+</li>
+<li>
+  <a href="https://www.instagram.com/oldalleynians/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram
+  </a>
+</li>
+https://twitter.com/Oldalleynians
+
 *Add details of twitter and instagram feeds for the club and links*
 
 ### RFU Level 3 - Candidate
@@ -34,4 +48,3 @@ Studying for RFU Level 3 course
 <ul>{% for post in site.categories.Rugby %}
     {% include archive-single.html %}
 {% endfor %}</ul>
-
