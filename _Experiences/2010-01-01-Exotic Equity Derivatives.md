@@ -1,14 +1,11 @@
 ---
-layout: archive-cv
+layout: archive
 excerpt: "Exotic Equity Derivatives"
 collection: Experiences
 date: 2011-01-01
----
-
-TEST
-
-<a href="{{ site.url }}/cv/" class="btn btn--info btn--large">{{ "Back to CV" }}</a>
-
 action:
   url: /cv/
-  label: "Back to CV"
+  label: "TEST"
+---
+
+Working on some of the banks most complex products, business analyst assisting the desk to migrate the analytics library.

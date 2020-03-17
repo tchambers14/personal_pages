@@ -3,7 +3,7 @@ title: "Thomas Chambers - Rugby Coach"
 header:
   overlay_image: /images/coach.PNG
   actions:
-    - label: "Old Alleynian's"
+      label: "Old Alleynian's"
       url: "https://www.alleynianrugby.org/"
 permalink: /rugby/
 ---
