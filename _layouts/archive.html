@@ -22,7 +22,9 @@ layout: default
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
-    <a href="{{ site.url }}{{ page.action.url }}" class="btn btn--info btn--large">{{ page.action.label }}</a>
+    {% if page.reroute_button %}
+    <a href="{{ site.url }}{{ page.reroute_button.url }}" class="btn btn--info btn--large">{{ page.reroute_button.label }}</a>
+    {% endif %}
   </div>
 </div>
 
