@@ -1,5 +1,6 @@
 ---
-excerpt: "Exotic Equity Derivatives"
+title: "BA Exotic Equity Derivatives"
+excerpt: "FO Trading Platform Analytics Upgrade"
 collection: Experiences
 date: 2011-01-01
 ---
