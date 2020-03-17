@@ -28,12 +28,12 @@ My coaching philosophy is summed up by _"success through enjoyment"_
 </li>
 
 
-### Head Coach of Old Alleynians RFC Senior Teams
+### Head Coach of Old Alleynian's FC Senior Teams
 - 5 Senior Men's sides
 - Competing in [London SE2](https://www.englandrugby.com/fixtures-and-results/search-results?competition=261&division=21517&season=2019-2020#table "London SE2")
 
 
-### RFU Level 3 - Candidate
+### RFU Level 3 Coach - Candidate
 
 ---
 
