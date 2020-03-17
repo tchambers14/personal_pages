@@ -314,7 +314,7 @@ defaults:
   # _Experiences
   - scope:
       path: ""
-      type: pages
+      type: "Experiences"
     values:
       layout: archive
       reroute_button:
