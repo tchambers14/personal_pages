@@ -12,16 +12,8 @@ My coaching philosophy is summed up by _"sucess through enjoyment"_
 
 ## Old Alleynian's Rugby Coach
 
+[![OAs](/images/OAs.jpg)](https://www.alleynianrugby.org/){: align-center }
 <img src="/images/OAs.jpg" alt="RFU" width="200" class="align-center"/>
-
-### Head Coach of Old Alleynians RFC Senior Teams
-- 5 Senior Men's sides
-- Competing in London SE2 _add link_
-
-_Embed league table?_
-
-https://www.instagram.com/oldalleynians/
-
 <li>
   <a href="https://twitter.com/Oldalleynians" itemprop="sameAs" rel="nofollow noopener noreferrer">
     <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
@@ -32,9 +24,20 @@ https://www.instagram.com/oldalleynians/
     <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram
   </a>
 </li>
-https://twitter.com/Oldalleynians
 
-*Add details of twitter and instagram feeds for the club and links*
+
+### Head Coach of Old Alleynians RFC Senior Teams
+- 5 Senior Men's sides
+- Competing in London SE2 _add link_
+
+_Embed league table?_
+
+
+
+
+
+
+
 
 ### RFU Level 3 - Candidate
 
