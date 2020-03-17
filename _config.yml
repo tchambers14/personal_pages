@@ -311,3 +311,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _Experiences
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: archive
+      reroute_button:
+        url: /cv/
+        label: "Back to CV"
