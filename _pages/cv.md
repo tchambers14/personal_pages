@@ -4,7 +4,8 @@ title: "Thomas Chambers - CV"
 permalink: /cv/
 author_profile: true
 ---
-[![Download CV](/images/pdf_doc.png){: .align-center}](/files/Thomas Chambers CV - April 2018.pdf)
+[![Download CV](/images/pdf_doc.png){: .align-left}](/files/Thomas Chambers CV - April 2018.pdf)
+Download a pdf copy of my CV
 
 Education & Qualifications
 ------
