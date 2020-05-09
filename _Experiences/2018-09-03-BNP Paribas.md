@@ -1,5 +1,5 @@
 ---
-title: "BNP Paribas - 2018 -> Present"
+title: "BNP Paribas - 2018 - Present"
 excerpt: "Led BA for full revaluation stress testing platform"
 collection: Experiences
 date: 2011-01-01
@@ -19,3 +19,10 @@ Work Experience
     - FRTB IMA DRC Calculation
     - Enhancements to counterparty capital processing for CDS Index Options
     - FRTB Eligibility Test Metric Development
+
+Service and leadership
+---------
+* Early Careers Network - Co-Chair
+    - Leading a team of volunteers to organise events to help colleagues in the early stages of their career
+* Innovation Champion
+    - Working with colleagues to bring ideas to life

@@ -7,12 +7,12 @@ author_profile: true
 
 Experience
 ---
-  <ul>{% for post in site.Experiences %}
+  <ul>{% for post in site.Experiences reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 
-Skills and Experience
+Skills and Expertise
 --------
 * Market Risk
 * Counterparty Credit Risk
@@ -22,13 +22,5 @@ Skills and Experience
     * SAFe - Product Ownership
     * Requirements Engineering
     * Project Management
-* Python Scripting
+* Python
 * VBA
-
-
-Service and leadership
----------
-* Early Careers Network - Co-Chair
-    - Leading a team of volunteers to organise events to help colleagues in the early stages of their career
-* Innovation Champion
-    - Working with colleagues to bring ideas
