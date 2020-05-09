@@ -4,7 +4,12 @@ title: "Thomas Chambers - CV"
 permalink: /cv/
 author_profile: true
 ---
-[![Download CV](/images/pdf_doc.png){: .align-center}](/files/Thomas Chambers CV - April 2018.pdf)
+
+Experience
+======
+  <ul>{% for post in site.Experiences %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Education & Qualifications
 ------
@@ -49,11 +54,6 @@ Skills
     * Requirements Engineering
     * Project Management
 
-Project Experience
-======
-  <ul>{% for post in site.Experiences %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 
 Service and leadership
