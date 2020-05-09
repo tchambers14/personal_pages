@@ -3,8 +3,10 @@ title: "Thomas Chambers - Rugby Coach"
 header:
   overlay_image: /images/coach.PNG
   actions:
-      label: "Old Alleynian's"
+    - label: "Old Alleynian's"
       url: "https://www.alleynianrugby.org/"
+    - label: "RFU Coaching"
+      url: "https://www.englandrugby.com/participation/coaching"
 permalink: /rugby/
 ---
 
@@ -39,7 +41,7 @@ My coaching philosophy is summed up by _"success through enjoyment"_
 
 <img src="/images/RFU.jfif" alt="RFU" width="200" class="align-center"/>
 
-Studying for RFU Level 3 course
+Currently working with an exciting group of coaches towards RFU Level 3
 
 ## Rugby Blog Posts
 <ul>{% for post in site.categories.Rugby %}
