@@ -6,45 +6,14 @@ author_profile: true
 ---
 
 Experience
-======
+---
   <ul>{% for post in site.Experiences %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Education & Qualifications
-------
-======
-* MBA - Open University, 2018
-* MEng 1st Class Honours - Oxford University, 2009
-* Certified Business Analysis Professional - IIBA - 2016
-* FRM - GARP - 2014
 
-Work Experience
-------
-======
-## September 2018 - Present: BNP Paribas
----
-  * Business Analysis / Product Owner
-    - Leading complex quantitative risk technology builds for regulatory deliverables including FRTB
-  * Duties Include:
-    - Design, Build and Test of complex software products to support Global Markets and Market and Counterparty Credit Risk
-    - Liaison with Risk and Front Office Quant teams
-  * Deliveries Include:
-    - FRTB IMA DRC Calculation
-    - Enhancements to counterparty capital processing for CDS Index Options
-    - FRTB Eligibility Test Metric Development
-
-## September 2009 - August 2018: Deutsche Bank
----
-  * Senior Quantitative Business Analyst
-  * Duties included:
-    - Leading a global team of business analysts
-  * Deliveries Included:
-    - Full revaluation stress testing platform
-    - Analytics Migrations for Equity Front Office
-
-Skills
-======
+Skills and Experience
+--------
 * Market Risk
 * Counterparty Credit Risk
 * Exotic Equity Derivatives
@@ -53,12 +22,13 @@ Skills
     * SAFe - Product Ownership
     * Requirements Engineering
     * Project Management
-
+* Python Scripting
+* VBA
 
 
 Service and leadership
-======
-* ECN Co-Chair
-    - Leading a team of volunteers to organise events for young employees
-* Risk Systems Innovation Champion
-    - Running Ideas Incubation Sessions
+---------
+* Early Careers Network - Co-Chair
+    - Leading a team of volunteers to organise events to help colleagues in the early stages of their career
+* Innovation Champion
+    - Working with colleagues to bring ideas
