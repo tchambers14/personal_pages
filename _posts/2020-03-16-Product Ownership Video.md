@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Product Ownership in a Nutshell"
 excerpt: "A great video that explains the key concepts of agile _product ownership_"
 collection: analysis
