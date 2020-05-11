@@ -11,7 +11,7 @@ date: 2011-01-01
   * Duties included:
     - Leading a global team of business analysts
   * Deliveries Included:
-    - BA lead for Full revaluation stress testing platform
+    - BA lead for full revaluation stress testing platform
       - Leading the business analysis function on a multi-million euro stress testing transformation program, including functional oversight for ~25 experienced analysts across multiple geographies to deliver complex change for both regulatory and internal risk management use cases.
     - FO Exotic Equity Trading Platform Analytics Upgrade
       - Working on some of the banks most complex products, business analyst assisting the desk to migrate the analytics library.

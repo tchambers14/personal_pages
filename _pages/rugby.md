@@ -13,7 +13,7 @@ permalink: /rugby/
 My coaching philosophy is summed up by _"success through enjoyment"_
 
 ## Old Alleynian's Rugby Coach
-
+---
 <a href="https://www.alleynianrugby.org/">
 <img src="/images/OAs.jpg" alt="RFU" width="200" class="align-center"/>
 </a>
@@ -30,13 +30,13 @@ My coaching philosophy is summed up by _"success through enjoyment"_
 </li>
 
 
-### Head Coach of Old Alleynian's FC Senior Teams
+## Head Coach of Old Alleynian's FC Senior Teams
+---
 - 5 Senior Men's sides
-- Competing in [London SE2](https://www.englandrugby.com/fixtures-and-results/search-results?competition=261&division=21517&season=2019-2020#table "London SE2")
+- Competing in [London SE2](https://www.englandrugby.com/fixtures-and-results/search-results?competition=261&division=21517&season=2019-2020#table)
 
 
 ### RFU Level 3 Coach - Candidate
-
 ---
 
 <img src="/images/RFU.jfif" alt="RFU" width="200" class="align-center"/>
@@ -44,6 +44,7 @@ My coaching philosophy is summed up by _"success through enjoyment"_
 Currently working with an exciting group of coaches towards RFU Level 3
 
 ## Rugby Blog Posts
+---
 <ul>{% for post in site.categories.Rugby %}
     {% include archive-single.html %}
 {% endfor %}</ul>
